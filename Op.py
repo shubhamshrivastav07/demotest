@@ -143,3 +143,20 @@ name1="raj"
 name2="raj"
 print(name1 is name2)
 print(name1 is not name2)
+
+
+
+
+
+
+
+
+def sum():
+
+	a=9
+	b=8
+	c=a+b
+	print(c)
+
+
+
